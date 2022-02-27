@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance of the sincere and zealous protestation of Abiezer Coppe, against the blasphemous and execrable opinions recited in the act of Aug. 10. 1650. The breach whereof, the author hath (through mistake) been mis-suspected of, when he hath not been in the least guilty thereof, &amp;c. Or, innocence (clouded with the name of transgression) wrapt up in silence; but now (a little) peeping forth from under the thick and black clouds of obloquie, arising out of the sea of malice in some, and out of weakness, ignorance, and mistake in others; who are by the author much pitied, and dearly beloved. And for their sakes primely, as also for the satisfaction of many, and information of all, this ensuing remonstrance, vindication, and attestation is published, per me, Abiezer Coppe,-de Newgate. Which is as a preamble to a farther future declaration of what he hath been, and now is; who hath been so cloathed with a cloud, that few have known him.</title>
+            <author>Coppe, Abiezer, 1619-1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80438</idno>
+            <idno type="STC">Wing C6089</idno>
+            <idno type="STC">Thomason E621_5</idno>
+            <idno type="STC">ESTC R206397</idno>
+            <idno type="EEBO-CITATION">99865557</idno>
+            <idno type="PROQUEST">99865557</idno>
+            <idno type="VID">117802</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80438)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117802)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 95:E621[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance of the sincere and zealous protestation of Abiezer Coppe, against the blasphemous and execrable opinions recited in the act of Aug. 10. 1650. The breach whereof, the author hath (through mistake) been mis-suspected of, when he hath not been in the least guilty thereof, &amp;c. Or, innocence (clouded with the name of transgression) wrapt up in silence; but now (a little) peeping forth from under the thick and black clouds of obloquie, arising out of the sea of malice in some, and out of weakness, ignorance, and mistake in others; who are by the author much pitied, and dearly beloved. And for their sakes primely, as also for the satisfaction of many, and information of all, this ensuing remonstrance, vindication, and attestation is published, per me, Abiezer Coppe,-de Newgate. Which is as a preamble to a farther future declaration of what he hath been, and now is; who hath been so cloathed with a cloud, that few have known him.</title>
+                  <author>Coppe, Abiezer, 1619-1672.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for James Cottrel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan. 3d 1650"; the date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+               <term>Ranters --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117802:1" rendition="simple:additions"/>
+            <p>A REMONSTRANCE OF The ſincere and zealous PROTESTATION OF <hi>ABIEZER COPPE,</hi> Againſt the Blaſphemous and Execrable OPINIONS recited in the ACT of <hi>Aug.</hi> 10. 1650.</p>
+            <p>The breach whereof, the Author hath (through Miſtake) been miſ-ſuſpected of, when he hath not been in the leaſt guilty thereof, <hi>&amp;c.</hi>
+            </p>
+            <p>Or, <hi>Innocence</hi> (clouded with the name of <hi>Tranſgreſſion</hi>) wrapt up in ſilence; But now (a little) peeping forth from under the thick and black clouds of Obloquie, Ariſing out of the ſea of Malice in ſome, and out of Weakneſs, Ignorance, and Miſtake in others; who are by the Author much pitied, and dearly beloved. And for their ſakes primely, as alſo for the ſatisfaction of many, and information of all, This enſuing <hi>Remonſtrance, Vindication,</hi> and <hi>Attestation</hi> is publiſhed,</p>
+            <p>Per me, <hi>ABIEZER COPPE,—</hi>de Newgate. <add>Jan. 3<hi rend="sup">d</hi> 1650</add>
+            </p>
+            <p>Which is as a Preamble to a farther future Decla<g ref="char:EOLhyphen"/>ration of what he hath been, and now is; who hath been ſo cloathed with a cloud, that few have known him.</p>
+            <p>
+               <hi>London,</hi> Printed by JAMES COTTREL. 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117802:2"/>
+            <pb n="1" facs="tcp:117802:2"/>
+            <epigraph>
+               <q>
+                  <p>Some ſaid He is a good man; others ſaid, Nay but he is mad, and hath a devil.</p>
+                  <p>He is a wine-bibber a glutton and a drunkard; a friend of publicans and harlots.</p>
+                  <p>But wiſdom is juſtified of her children.</p>
+               </q>
+            </epigraph>
+            <p>I Having patiently, cheerfully, and ſilently ſuſtained (<note n="*" place="margin">All fl ſhly intereſts, carnal Go<g ref="char:EOLhyphen"/>ſpellers, and pretenders to Religion, with ſome ſecret enemies (though ſeeming friends) to the State, com<g ref="char:EOLhyphen"/>bining together to incenſe them a<g ref="char:EOLhyphen"/>gainſt me, becauſe I have faithfully and boldly declaimed againſt their hypocriſie, pride, covetouſneſs, ſelf-ſeeking, and villany, covered under the cloak of fleſhly holineſs and Re<g ref="char:EOLhyphen"/>ligion, <hi>&amp;c.</hi>
+               </note> through the malice, ignorance miſtake, and blinde zeal of Informers) a tedious twelve-months impriſonment in the common Goals of <hi>Warwick, Coventry,</hi> and that moſt infamous Goal of <hi>Newgate,</hi> Have been within theſe few days inform<g ref="char:EOLhyphen"/>ed by my deareſt friend, That</p>
+            <p>The two<note n="†" place="margin">Which were put out <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lf a y<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er after mine impriſonment.</note> Acts of <hi>May</hi> 10. and <hi>Aug.</hi> 9. 1650 were put out becauſe of me; there<g ref="char:EOLhyphen"/>by ſecretly intimating that I was guilty of the breach of them. Whereupon, (<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fter my long, and by many ad<g ref="char:EOLhyphen"/>mired patience and ſilence) I thought good, not ſo much for mine own ſake, (for my pure innocence ſupports me, and lifts up my head above all theſe things) but for the ſakes of others,</p>
+            <p>To preſent<lb/> This enſuing Remonſtrance Vindication, and Atteſtation<g ref="char:punc">▪</g>
+            </p>
+            <p>Reſolving, by the help of the Omnipotent, Omnipreſent JE<g ref="char:EOLhyphen"/>HOVAH (whom I purely <hi>worſhip in the ſpirit,</hi> having <hi>no con<g ref="char:EOLhyphen"/>fidence in the fleſh</hi>) to enlarge my ſelf (when I enjoy my li<g ref="char:EOLhyphen"/>berty) upon theſe things; and to all unprejudiced ſpirits (and perhap<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the ſilencing of them alſo) to give an account of my ſelf, in reference to thoſe Various Diſpenſations paſt and preſent, that I have been and am led into and thorow: as alſo, the re<g ref="char:EOLhyphen"/>moving of all ſtumbling-blocks, the clearing up of thoſe miſtakes,
+<pb n="2" facs="tcp:117802:3"/> and the wiping away thoſe aſperſions, which (through malice, weakneſs, ignorance, and miſtake) have been caſt upon me; who have been ſo covered with a cloud, that not one amongſt a thouſand know me.</p>
+            <p>But for the preſent, I ſhall addreſs my ſelf to the Acts; and begin with that of <hi>Aug.</hi> 9.</p>
+            <p>In the Preamble of this Act, the Parliament expreſs their de<g ref="char:EOLhyphen"/>ſires <hi>(by all GOOD MEANS) to propagate the Goſpel, <hi>&amp;c.</hi>
+               </hi> Which is the deſire of my ſoul. And it is always my fervent prayer to Him whoſe it is, That He <hi>the Prince of peace,</hi> (whoſe <hi>burden is eaſie,</hi> and whoſe <hi>yoke is light;</hi> who <hi>ruleth in righteouſneſs;</hi> who <hi>judgeth not according to outward ap<g ref="char:EOLhyphen"/>pearance, but judgeth righteous judgement</hi>) that he would, by his own out-ſtretched Arm, ſet it up. And I reſolve never to give mine eyes any reſt, till I ſee it flouriſh: for it is my Life.</p>
+            <p>They farther expreſs<lb/> Their deſire to ſuppreſs <hi>[Prophaneſs and Wickedneſs, Superſtition and Formality, <hi>&amp;c.]</hi>
+               </hi>
+            </p>
+            <p>The two former, my ſoul abhors, and I hate them with a per<g ref="char:EOLhyphen"/>fect hatred; and have, by Life and Converſation, by Doctrine and Example (for many yeers) decried them; yea, even ſince I have been by all men (except thoſe that knew me) cried up (as my <hi>fore-runner</hi> before me was by all ſorts even of the moſt re<g ref="char:EOLhyphen"/>ligious and righteous men, except a handful that knew him) for the worſt of ſinners, the vileſt of perſons; for a <hi>Blaſphemer,</hi> a <hi>Devil,</hi> &amp;c.</p>
+            <p>And as for <hi>Idolatry, Superſtition,</hi> and <hi>Idolatrous Forma<g ref="char:EOLhyphen"/>lity;</hi> Have any been <hi>Boanerges</hi> upon this account? (I ſpeak as a fool.) I have thundered more againſt them then they all. And for my zeal herein, and againſt finer and ſubtiller pieces of For<g ref="char:EOLhyphen"/>mality, the coals were firſt kindled againſt me. And now the fire is at the higheſt: whereat I laugh; having ſweet union and com<g ref="char:EOLhyphen"/>munion with the Father and the Son; living in that Kingdom wherein dwelleth righteouneſs and peace; triumphing in <hi>joy unſpeakable, and full of glory:</hi> ſweet Peace and pure Content being my continual repaſt. Neither do I repent,</p>
+            <p>That the Almighty (whoſe I am, and who will do with his
+<pb n="3" facs="tcp:117802:3"/> own what he pleaſeth) Hath ſet me (as formerly he hath moſt of his holy Prophets and Servants) as<note n="*" place="margin">Iſa. 8.18, 14, 15. Zech. 3.3, 8. ☞ [Men wondered at.] <hi>Their words wondered at, their carriage wondered at, their actions wondered at,</hi> &amp;c. * <hi>As was</hi> Hoſea, <hi>Hoſ.</hi> 1.2.</note> 
+               <hi>A SIGNE and a WONDER.—And</hi>—as <hi>a ſtumbling ſtone, and ROCK of OFFENCE to both the houſes of Iſrael,</hi> &amp;c.</p>
+            <p>But to proceed.<lb/> The Act is bent againſt theſe enſuing Execrable Opinions <hi>&amp;c.</hi> As (firſt) <hi>[The denial of the neceſſity of Civil and Moral righteouſneſs amongſt men.]</hi>
+            </p>
+            <p>If there are ſuch a generation of men, they ſtand or fall to their own maſter. As for me, I ſay concerning them, <hi>O my ſoul! come not thou into their ſecrets: unto their aſſemblies, mine honour, be not thou united,</hi> Gen. 49.6.</p>
+            <p>This Opinion (in the preſence of the All-ſeeing God, in whoſe preſence I am, and whom I ſerve) I utterly proteſt againſt. And in the ſame preſence, I moſt joyfully (to his praiſe) affirm, That that Golden Law, which is the Baſis of all Civil and Moral righ<g ref="char:EOLhyphen"/>teouſneſs among men; (Viz. <hi>Whatſoever ye would that men ſhould do unto you, even ſo do you to them,</hi> &amp;c.) is by the finger of God (in indelible letters) written as a Law of Life in my heart.</p>
+            <p>And here I can boldly (as in reference to the grace of God) though in all humility (as in reference to my ſelf) challenge the whole world, and ſay, <hi>Whoſe ox have I taken? or whoſe aſs have I taken? or to whom have I done any wrong?</hi> Whom have I dealt unjuſtly with? where is ever a drop of blood that I have ſhed? whom have I defrauded of a ſhoo-latchet or a thred? <hi>&amp;c.</hi>
+            </p>
+            <p>Herein do I make my boaſt of God all the day long, and in him do I triumph and rejoyce, though I am (to my joy alſo) numbered amongſt Tranſgreſſors, and the chiefeſt of them pre<g ref="char:EOLhyphen"/>ferred before me; many of them being re<g ref="char:EOLhyphen"/>leaſed, and<note n="*" place="margin">At which I envie not, <hi>&amp;c.</hi> but take notice of, as do ſome hundreds alſo beſides me.</note> ſet at liberty; and I (patiently and ſilently) lie by the walls, as having a vi<g ref="char:EOLhyphen"/>ſage more marred then any man's, <hi>&amp;c.</hi>
+            </p>
+            <p>But I proceed,<lb/> And avowedly proteſt, that I hate and deteſt, yea (in the pre<g ref="char:EOLhyphen"/>ſence
+<pb n="4" facs="tcp:117802:4"/> of God) proteſt againſt all thoſe blaſphemous Opinions or Tenents recited in page 980, from the thirteenth line thereof, to the ſeven and twentieth line of pag. 981.</p>
+            <p>And many, or moſt of them, I will particularly hint at;</p>
+            <p>As primely this.<lb/> I do not <hi>vainly, ignorantly, and blaſphemouſly affirm</hi> my <hi>ſelf, or any other meer creature, to be very God:</hi> neither was this Tenent (or any of the reſt that follow) ever mine.</p>
+            <p>But this I have and do affirm, and ſhall ſtill upon the houſe tops affirm, and ſhall expire with this wholeſom ſound, and orthodoxal opinion That God Chriſt is in the creature.</p>
+            <p>[—<hi>CHRIST IN YO<g ref="char:V">Ʋ</g> except you are reprobates,</hi> 1 Cor.] The contrary aſſertion, is the Blaſpemie of Blaſphemies, <hi>&amp;c.</hi>
+            </p>
+            <p>Again, I diſavow, diſown, deteſt, and proteſt againſt that Opinion which holdeth, That [<hi>God dwelleth in the creature, and nowhere elſe,</hi> &amp;c.] I live in that ſound and orthodox opinion of Omnipreſencie; of which I can ſpeak feelingly know<g ref="char:EOLhyphen"/>ingly powerfully: whereof I formerly (in the time of mine own righteouſneſs, which was<note n="*" place="margin">Iſai.</note> 
+               <hi>as menſtruous rags;</hi> and in the time of my fleſhly wiſdom, which was<note n="*" place="margin">1 Cor.</note> 
+               <hi>enmity to God</hi>) ſpake of formally, ignorantly, notionally (onely) like a Parot in a Cage.</p>
+            <p>And as for <hi>the Righteouſneſs, Holineſs of GOD, <hi>&amp;c.</hi>
+               </hi> I had rather be cut to pieces then ſpeak againſt it: for it is my Life. And whatever I have ſpoken againſt Righteouſneſs and Holineſs, it hath been againſt that righteouſneſs of Man, which is<note n="*" place="margin">Iſai.</note> 
+               <hi>as menſtruous rags</hi> &amp;c. and againſt that carnal mock-ho<g ref="char:EOLhyphen"/>lineſs: <hi>pſeud</hi>-holineſs of man which is a cloak for all manner of Villany; upon which the vengeance of God is and hath been poured forth <hi>&amp;c.</hi>
+            </p>
+            <p>And as for <hi>Vncleanneſs, prophane Swearing, Drunken<g ref="char:EOLhyphen"/>neſs, Filthineſs, Brutiſhneſs,</hi> &amp;c. I declaim againſt them, as unholy<g ref="char:punc">▪</g> 
+               <hi>&amp;c.</hi>
+            </p>
+            <p>As alſo, for <hi>Lying, Stealing, Cozening, and defrauding others,</hi> my ſoul abhors.</p>
+            <p>Further, I hold, declare, and maintain, that <hi>Murther, Adul<g ref="char:EOLhyphen"/>tery, Inceſt, Fornication, Vncleanneſs, Sodomie,</hi> &amp;c. are things ſinful, ſhameful, wicked, impious, and abominable, in any perſon, <hi>&amp;c.</hi>
+            </p>
+            <pb n="5" facs="tcp:117802:4"/>
+            <p>Or that <hi>Heaven and Happineſs conſiſteth in the acting of theſe or ſuch things;</hi> and the reſt, as they follow in pag. 981, are things that I diſown, diſavow, and proteſt againſt.</p>
+            <p>I ſhall conclude with this Affirmation and Aſſeveration:</p>
+            <p>That there is Heaven, and Hell; Salvation, and Damnation. Heaven for all thoſe that repent of their ſins, that <hi>ceaſe to do evil, and learn to do well.</hi> Heaven, for all them that are waſht, purged, and cleanſed, by the Spirit of our God. Heaven, for all them that have Chriſt, the King of Glory, Eternal Majeſtie, in them. And Hell, and Damnation, to all that <hi>touch the apple of his eye,</hi> that oppoſe <hi>the Lords Anointed,</hi> and that <hi>do his Prophets any harm.</hi>
+            </p>
+            <p>It was in my thoughts to have ſaid ſomething concerning the Act of <hi>May</hi> 10; but, upon reading thereof, I ſee nothing in it but what is contained in that of <hi>Auguſt;</hi> and therefore my la<g ref="char:EOLhyphen"/>bour is ſaved.</p>
+            <p>And I ſhall onely adde a word or two concerning Liberty and Community.</p>
+            <p>As for Liberty, I own none but <hi>the glorious liberty of the ſons of God</hi> which I and <hi>the whole creation groans</hi> after. And I do from my heart deteſt and proteſt againſt all Sinful liberty, or that is deſtructive to ſoul or body.</p>
+            <p>And as for Community, I own none but that Apoſtolical, Saint-like Community ſpoken of in the Scriptures. So far I ei<g ref="char:EOLhyphen"/>ther do or ſhould own Community, that if fleſh of my fleſh be ready to periſh, I either will or ſhould call nothing that I have mine own: if I have bread, it ſhall or ſhould be his; elſe all my Religion is vain. I am for dealing bread to the hungry, for cloathing the naked, for the <hi>breaking of every yoke,</hi> for the <hi>let<g ref="char:EOLhyphen"/>ting of the oppreſſed go free.</hi> I am or ſhould be as my heaven<g ref="char:EOLhyphen"/>ly Father, who is kinde to all, loving to all, even to the ungodly, &amp;c. <hi>Mat.</hi> 6. I can (through grace) pity thoſe that are objects of compaſſion, and out of my poverty and penury relieve thoſe that are in want. <hi>And if this be to be vile,</hi>— &amp;c.</p>
+            <p>Yet,<lb/> Know all men by theſe Preſents, That I am utterly againſt that Community which is ſinful, or deſtructive to ſoul or body.</p>
+            <closer>
+               <signed>Ita teſtor, <hi>ABIEZER COPPE.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="6" facs="tcp:117802:5"/>
+            <head>POSTSCRIPT.</head>
+            <p>
+               <hi>I</hi> Have onely one word more, and for the preſent I have done.</p>
+            <p>There are ſeveral Pamphlets extant againſt a People called <hi>RANTERS;</hi> two whereof bear this Inſcription in their brazen foreheads, <hi>[Publiſhed by Authority]</hi> elſe the malice and ſimplicity of the Pamphleter ſhould have been ſtill laugh'd at onely, and yet (upon another ac<g ref="char:EOLhyphen"/>count) pitied by me.</p>
+            <p>For the preſent, I will onely give—to underſtand, That the Pamphlets are ſcandalous, and beſpattered with Lyes and Forgeries, in ſetting me in the front of ſuch actions which I never did, which my ſoul abhors; ſuch things which mine eyes never beheld, ſuch words which my tongue never ſpake, and mine ears never heard.</p>
+            <p>All like that falſe aſperſion,—<hi>Viz.</hi> that I was ac<g ref="char:EOLhyphen"/>companied to <hi>Coventry</hi> with two ſhe-diſciples, and that I lay with two women there at once. Which two ſhe-diſciples were Captain <hi>Beak,</hi> and other Souldiers, who have hur<g ref="char:EOLhyphen"/>ried me from Goal to Goal where I ſing Hallelujahs to the <hi>righteous Judge,</hi> and lie in his boſome, who is ever<g ref="char:EOLhyphen"/>laſting loving kindneſs. <hi>Amen.</hi>
+            </p>
+            <closer>HALLELUJAH.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:117802:5"/>
+            <p>
+               <figure>
+                  <figDesc>printer's device (?)</figDesc>
+               </figure>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
